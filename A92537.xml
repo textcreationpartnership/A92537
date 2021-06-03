@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Commissioners of the kingdom of Scotland, concerning a paper intituled, The Kings letter to the Marques of Ormond, presented to both houses of Parliament the 8. of this instant June, 1646. Together with two proclamations, the one, made by the Committee of Estates of the Kingdom of Scotland at Edenburgh. The other, by His Excellency the Earl of Leven and others. As also an order of the Committee of Estates, for disbanding a regiment of about four hundred horse, by reason of some complaints presented against them by the countrey people. Published by special command.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92537</idno><idno type="EEBO-CITATION">99861495</idno>
+  <idno type="VID">113632</idno>
+  <idno type="EEBO-PROQUEST">2248525400</idno>
+  
+            <idno type="STC">Wing S1204</idno>
+            <idno type="STC">Thomason E340_6</idno>
+            <idno type="STC">ESTC R200869</idno>
+            <idno type="PROQUEST">99861495</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861495e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92537)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113632)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Commissioners of the kingdom of Scotland, concerning a paper intituled, The Kings letter to the Marques of Ormond, presented to both houses of Parliament the 8. of this instant June, 1646. Together with two proclamations, the one, made by the Committee of Estates of the Kingdom of Scotland at Edenburgh. The other, by His Excellency the Earl of Leven and others. As also an order of the Committee of Estates, for disbanding a regiment of about four hundred horse, by reason of some complaints presented against them by the countrey people. Published by special command.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>Leven, Alexander Leslie, Earl of, 1580?-1661.</author>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Laurence Chapman.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Iune 9. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "Declaration" was also published separately as "A letter or declaration of the Commissioners of the Parliament of Scotland" (Wing S1288).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113632:1"/>
+            <p>THE DECLARATION OF THE Cōmissioners of the Kingdom of <hi>Scotland,</hi> Concerning a PAPER Intituled, <hi>The Kings Letter to the Marques of</hi> Ormond, Presented to both Houses of Parliament the 8. of this instant <hi>June,</hi> 1646.</p>
+            <p>Together with two Proclamations, the one, made by the Committee of Estates of the Kingdom of <hi>Scotland</hi> at <hi>Edenburgh.</hi>
+            </p>
+            <p>The other, by His Excellency the Earl of <hi>LEVEN</hi> and others.</p>
+            <p>As also an <hi>Order</hi> of the Committee of Estates, for disbanding a Regiment of about Four hundred Horse, by reason of some Complaints presented against them by the Countrey people.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published by Special Command.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Laurence Chapman.</hi> Iune 9. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:113632:2"/>
+            <pb n="3" facs="tcp:113632:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honorable,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>His inclosed Paper having very lately come to our hands, which although it hath not so much as co<g ref="char:EOLhyphen"/>lour enough to deceive, yet neverthelesse as Ge<g ref="char:EOLhyphen"/>neral Major <hi>Monro</hi> in testimony of his integrity did communicate the thing to the Commissioners of Parliament in <hi>Ʋlster;</hi> so we for preventing mistakes (many Copies of the same thing being spread among the people) thought good to communicate the same to the Honorable Houses, with our sense upon it, that by their wis<g ref="char:EOLhyphen"/>dom and reciprocal care, a right understanding in all things may be still preserved between the Kingdoms. Whether any such Letter was signed by the King at <hi>Oxford,</hi> or whether it was invented of purpose to support a declining Party, we know not: What may concern the King in it, we leave it to Himself, who as He hath since the Date of that Paper expressed contrary Intentions and Resolu<g ref="char:EOLhyphen"/>tions in His Messages to both Kingdoms, so He can best tell what He wrote at that time. We are only to speak to the matter of the Paper, which cometh from the hand of Secretary <hi>Nicholas,</hi> unto whose Informations what credit ought to be given, the Houses very well know. It doth consist in our perfect knowledge (and we declare it with as much confidence as ever we did or can do any thing) that the matter of the Paper so far as concerneth any assu<g ref="char:EOLhyphen"/>rance or capituiation for joyning of Forces, or for combining a<g ref="char:EOLhyphen"/>gainst the Houses of Parliament, or any other private agreement whatsoever between the King or any about him on the one part, and the Kingdom of <hi>Scotland,</hi> their Army, or any in their Name, and having power from them upon the other part, is a most damn<g ref="char:EOLhyphen"/>ble untruth. We shall not need to expresse how improbable it is, if there had been any such Agreement, that the King about the same time should have sent a Message to both Houses, offering to come to <hi>London,</hi> and to follow their Advice in all things, without effering any satisfaction to the Kingdom of <hi>Scotland;</hi> And that be<g ref="char:EOLhyphen"/>fore he received the Answer of the Houses, He should write such a Letter to <hi>Ireland,</hi> and give Order to make it known not only to
+<pb n="4" facs="tcp:113632:3"/>His Privy Councel, but to His other Subjects of that Kingdom: Nor will we insist how improbable it is, that the King should make this known to the Marquesse of <hi>Ormond,</hi> and neglect to acquaint the late Earl of <hi>Montrosse,</hi> who had been much more concerned, And who would, no doubt, if he had known any such thing, have communicated the same to General Major <hi>Middleton,</hi> and prevent<g ref="char:EOLhyphen"/>ed the desearing of himself, his Associates and Forces about the middle of <hi>May,</hi> after the King was with the Scotish Army: Nor how unlikely it is that he who is for the time Commander in chief of the Scotish Forces in <hi>Ireland,</hi> should be for the space of seven or eight week totally ignorant of any such Agreement, Or if he had known any such thing, that he would have communicated it to the Commissioners of the Parliament, and immediately marched him<g ref="char:EOLhyphen"/>self to the Fields against the Enemy. Nor shall we need to call to minde the expressions in the Lord <hi>Digbies</hi> intercepted Letters, which gave our Nation the Character of such as could not be gain<g ref="char:EOLhyphen"/>ed to that side, no not after all applications used. There are other more sure &amp; publike testimonies since the date of that lying Paper, which makes the falshood of it more then palpable, as if Divine Providence had purposely ordered all the late Actions of the Kingdom of <hi>Scotland</hi> and of their Forces, both before and since the third of <hi>April,</hi> to be so many real confutations of that ground<g ref="char:EOLhyphen"/>lesse invention: We mean, several late fights with the Rebels un<g ref="char:EOLhyphen"/>der the late Earl of <hi>Montrosse</hi> and <hi>Alaster mac Donald;</hi> the deli<g ref="char:EOLhyphen"/>very of <hi>N<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wark;</hi> the restraining and debarring of Delinquents and Malignants from the Kings Person and from our Army; the late publike Declarations of the Church and State of <hi>Scotland</hi> in the beginning of <hi>April;</hi> as likewise of the General and Commit<g ref="char:EOLhyphen"/>tee with the Army, agreed upon about the end of <hi>April,</hi> and pub<g ref="char:EOLhyphen"/>lished about the 15. of <hi>May</hi> in <hi>Scotland,</hi> against a Band of the Earl of <hi>Seaforth</hi> and his Associates, as for other reasons, so especi<g ref="char:EOLhyphen"/>ally for this, That the said Band did tend to the weakning of the Confidence and Union between the two Kingdoms, firmly joyned and mutually engaged for Assistance to each other in this Cause, as may appear more fully by the Declarations herewith presented. Nor can we passe the Paper delivered to the King by the Com<g ref="char:EOLhyphen"/>mittee of Estates upon the 15 of <hi>May</hi> last, Expressing that if His Majesty should delay to go about the readiest ways and means to satisfie both His Kingdoms, they would be necessitated for their
+<pb n="5" facs="tcp:113632:3"/>own exoneration, to acquaint the Committeee of both King<g ref="char:EOLhyphen"/>doms at <hi>London,</hi> that a course might be taken by joynt Advice of both Kingdoms, for attaining the just ends expressed in the Solemn League and Covenant. We shall say no more of this particular, God hath his own time to make manifest who have dealt sincerely and who falsely. And as our Nation did refuse to joyn with the Enemies forces when they were strongest, And did joyn with our Brethren of <hi>England</hi> in their weakest and most necessious conditi<g ref="char:EOLhyphen"/>on; so we shall never look for a blessing from God upon either Na<g ref="char:EOLhyphen"/>tion, longer then they continue faithful to God, and to each other ac<g ref="char:EOLhyphen"/>cording to the Covenant and Treaty: And we do confidently ex<g ref="char:EOLhyphen"/>pect from the Wisdom and Justice of the Honorable Houses, that this and such like Papers shall finde no more credit here, then Papers and Informations against themselves did formerly finde in <hi>Scotland:</hi> And that Declarations &amp; publike Papers from the kingdom of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> or their Committees or Commissioners, shall have such accept<g ref="char:EOLhyphen"/>ation with both Houses, as they desire Declarations from themselves or Papers from any in their Name, may have with their Brethren of <hi>Scotland.</hi> Nor do we doubt but God will dissipate all the clouds of calumaies and mis-understandings endeavored thereby, And will give such a frame of Spirit to both Nations, as may continue them in a Brotherly accord and mutual confidence, for the good both of this and of the succeeding generations, which hath been, is, and shall be, most earnestly wished and faithfully endeavored by</p>
+                  <closer>
+                     <signed>Your Lordships very affectionate Friends and humble Servants, <hi>Lauderdail, A: Johnston, Charls Erskin, Hugh Kennedy, Ro: Barclay.</hi>
+                     </signed>
+                     <date>8. <hi>June,</hi> 1646.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>We have sent you here inclosed an Order of the Committee of Estates at the Army, which will evidence their care to remove out of that Army all such a<g ref="char:EOLhyphen"/>gainst whom any just Complaints have been made by the Countrey.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <opener>
+                           <dateline>
+                              <hi>Newcastle</hi>
+                              <date>
+                                 <hi>the</hi> 31 <hi>of May,</hi> 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>THe Committee for good consideration moving them, have Ordained the Re<g ref="char:EOLhyphen"/>giment of Horse under the command of General Major <hi>Vondruisqne</hi> forth with to be disbanded and reduced, And that no Forreigner whatsoever, nor Sco<g ref="char:EOLhyphen"/>tish man, take on, or engage in the Army, but such as shall be known to be with<g ref="char:EOLhyphen"/>out exception.</p>
+                        <closer>
+                           <signed>Signed <hi>Loudoun. I. P. D. Com.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>THe Letter pretended to be sent from His Majesty to the Marquesse of</hi> Ormond, <hi>whereof a Copy was sent by the said Marquesse to General Major</hi> Mouro, <hi>Com<g ref="char:EOLhyphen"/>mander of the Scotish Forces in</hi> Ireland, <hi>and by him communicated to the English Commissioners there, is already printed, and therefore here omitted.</hi>
+            </p>
+         </div>
+         <div type="proclamation">
+            <pb n="6" facs="tcp:113632:4"/>
+            <head>The Proclamation of the Committee of Estates against a Traiterous BAND contrived in the North of the Kingdom of <hi>Scotland.</hi>
+            </head>
+            <p>
+               <hi>CHARLES,</hi> By the grace of God, King of <hi>Great Bri<g ref="char:EOLhyphen"/>tain, France</hi> and <hi>Ireland,</hi> Defender of the Faith. To Our Lovits Our Lion King at Arms, and his brethren Heralds and Pursevants Our Sheriffs, in that part, gréeting. Whereas the Committee of Estates of Our King<g ref="char:EOLhyphen"/>dom of <hi>Scotland.</hi> being most careful, according to the trust committed to them, To use all means for advancing the Cause of God, setling the publike Peace, and for preventing the practises of such as would in any wise hinder or oppose the same. And seeing a Paper emitted under the Title of <hi>An humble Remonstrance,</hi> yet being in effect, A Band against God and his Covenant, Vs and Our Authority, and this Our native Kingdom and its Peace and Happinesse, the covered with the specious pretences of Piety and publike Liberty, Have found themselves oblieged in duty to take notice there<g ref="char:EOLhyphen"/>of, And to undeceive Our good Subjects, by unfolding the wickednesse and treachery of the same, which evidently ap<g ref="char:EOLhyphen"/>pears, The persons who have special hand therein being for<g ref="char:EOLhyphen"/>merly under the like guiltinesse of Banding, contrary to the National Covenant which themselves had sworn; And ha<g ref="char:EOLhyphen"/>ving since by several Bands and Oaths to be seen under their hand writings joyned themselves to the Rebellion of that Excommunicate Traitor <hi>Iames Grahame</hi> and his Irish Associates, with whom they have corresponded this time past, Have now (as it seems) by his advice entred into this Band (the natural issue of those consultations and meetings they have kept together of late) without the knowledge of the publike Iudicatories of Our Kingdom, contrary to the Law of the Land, and Acts of Parliament expresly made in that behalf: And that they may the more easily inveigle the simpler sort, they have usurped to themselves the flou<g ref="char:EOLhyphen"/>rishing Titles of Lovers of Religion, Our Royal Authori<g ref="char:EOLhyphen"/>ty, and Our Kingdoms Peace; their Paper notwithstand<g ref="char:EOLhyphen"/>ing clearly evidencing their intentions to be contrary to all
+<pb n="7" facs="tcp:113632:4"/>these, By their changing and omitting several essential Ar<g ref="char:EOLhyphen"/>ticles in the Covenant, which are at length discovered by the Commissioners of the Kirk in their Declaration; By their slighting and contemning the wayes proposed by both Our Kingdoms, in sending Propositions to Vs, for attain<g ref="char:EOLhyphen"/>ing a safe and well-grounded Peace: And presumptuously taking upon themselves to prescribe other wayes, and to be Arbitrators of the present Differences betwixt Vs and Our people: By their traducing the publike proceedings of that Our Kingdom, in their seeming regrait of the silence of the civil Iudicatories, which by the Plague of Pestilence and present Rebellion (fomented by the Remonstrants them<g ref="char:EOLhyphen"/>selves, who despised the main Orders given to them by the publike Iudicatories for suppressing thereof) hath been so long occasioned, and is now happily provided for by the care of Our Parliament, which hath appointed these Iudicato<g ref="char:EOLhyphen"/>ries to meet at the ordinary time, if they be not letted by the indired practises of thir Banders, and such others, who under fair pretexts study the continuance of the present troubles, And by their open withholding their assisting, and secret re<g ref="char:EOLhyphen"/>sisting the resolutions of the Kingdom. Do what in them lyes to weaken the strength thereof, and render it a prey to Forreign powers: As also by their large enumerating the publike Burdens, which have béen so necessarily laid on for preserving Our Kingdom from ruine, and are so much the heavier on these parts, That these who now complain most, have by their complyance with the Rebels, and refusal to joyn against them, been altogether free thereof as yet: and which have been so sparingly imposed and providently dispo<g ref="char:EOLhyphen"/>sed of, that no just occasion of complaint can be made there<g ref="char:EOLhyphen"/>of; as will appear by the publike Accompts at length perused by the Estates of Our Parliament, and yet extant to the view of the world. And last, these Banders finding no rea<g ref="char:EOLhyphen"/>dier mean so dishearten Our good Subjects in the pursuance of this Cause, make large expressions of their sense of the distressed condition of the Countrey, whiles they themselves by their by-gone correspondence and present Banding with declared Traytors and bloody Irishes who have invaded this Our Kingdom, Do really witnesse their intentions to con<g ref="char:EOLhyphen"/>tinue,
+<pb n="8" facs="tcp:113632:5"/>(so far as they are able) increase the troubles and di<g ref="char:EOLhyphen"/>stresses thereof, and sear the Bowels of the same. For which purpose they labour to weaken the confidence and Vnion be<g ref="char:EOLhyphen"/>twixt Our Kingdoms of <hi>Scotland</hi> and <hi>England,</hi> which are so firmly joyned in the solemn League and Covenant, that no respects can make them forget their mutual ingagements, or withhold their assistance from others, as the condition of affairs shall require. All which being at length considered by the Committee of Estates, And they finding this Band to be Destructive to the Covenant, and ends contained therein, Illegal, and against the Laws of Our Kingdom, Prejudicial to the publike Peace (now drawing towards a happy close, if not interrupted by such Treacherous Plets) and Divisive for fomenting of Iealousies, and continuing the bloody wars within Our Kingdoms, Have declared they will proceed a<g ref="char:EOLhyphen"/>gainst the same accordingly: And therefore</p>
+            <p>
+               <hi>OUR WILL IS,</hi> and We charge you straitly and com<g ref="char:EOLhyphen"/>mand, that incontinent thir Our Letters séen, you passe, and by open Proclamation hereof at the Market Crosses of <hi>Edinburgh, Stirling, Glasgow, Dundee, Perth, Forfar, Aberdeen, Innernesse,</hi> and other places needful, In Our Name and Au<g ref="char:EOLhyphen"/>therity command, charge, and inhibit all Our good Subjects, That none of them presume nor take upon hand, to acknow<g ref="char:EOLhyphen"/>ledge or sign the said Band, nor joyn themselves with the sub<g ref="char:EOLhyphen"/>scribers thereof in pursuance of the same, under all highest pains which by the Law or practise of this Our Realm can be execute upon such unlawful and seditious Bands. And yet because possibly some of Our good Subjects have been through misinformation, fear, or other means insnared and drawn to joyn herein, without any ill intention of them<g ref="char:EOLhyphen"/>selves; And we being willing to reclaim all such, Do there<g ref="char:EOLhyphen"/>fore Declare, That whosoever hath signed or joyned in this Band, and will betwixt this and the Fiftéenth of May next to come disclaim and quit the same, shall be free of all cansure therefore. The which to do, we commit to you Our full power by thir Our Letters.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh</hi>
+                  <date>the <hi>5.</hi> of April, &amp; of Our Raign the <hi>22.</hi> Year. <hi>1646.</hi>
+                  </date>
+               </dateline>
+               <signed>Per actum Dominorum Commiss. praedict. ARCH. PRIMEROSE, Cler.</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="9" facs="tcp:113632:5"/>
+            <head>A Declaration of his Excel<g ref="char:EOLhyphen"/>lency the Earle of <hi>LEƲEN,</hi> and Chiefe Officers of the Scottish <hi>ARMY.</hi> Testifying their adherence to his Maiesties Proclamation and Declaration of the Com<g ref="char:EOLhyphen"/>missioners of the Generall Assembly against the Earle of <hi>Seaforth's</hi> Remonstrance.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving communicated to the Offi<g ref="char:EOLhyphen"/>cers and Souldiers of this Army under my command, a Letter sent to me from the Earle of <hi>Seaforth,</hi> with a paper carrying the title of an humble Remonstrance (though relating to no person nor judicatory in the Kingdome) and considering the same to be but a wicked in<g ref="char:EOLhyphen"/>veagling snare, which the spirit of Malignan<g ref="char:EOLhyphen"/>cy (now broken loose, &amp; raging in the minds of men, hath devised to hinder the advancement of Gods worke, and involve the simpler sort in the fearefull breach of the Covenant; And the
+<pb n="10" facs="tcp:113632:6"/>right honourable Committee of estates, and reverend Commissioners of the Generall As<g ref="char:EOLhyphen"/>sembly, have therefore most iustly condemned the same, Ordaining the authors and abettors thereof to be proceeded against, as the enemies of the publike peace, wee have all Ioyntly con<g ref="char:EOLhyphen"/>ceived it a part of that care and the duty (which in the times of defection might be required of us) to declare how farre we detest and abomi<g ref="char:EOLhyphen"/>nate the said Traiterous band as a seditious pa<g ref="char:EOLhyphen"/>per, and to the end our constant affections to the cause of God, and our firme resolutions, not to suffer our selves by any terrors or allurements to be divided may the better appeare, to give publike testimony to the world, that we Iudge all the wayes, and desires therein expressed pernitious to the Church and State, destructive to the common happinesse of both, ministring matter of incouragement to our enemies, lan<g ref="char:EOLhyphen"/>guishing in the hopes of our divisions, disheart<g ref="char:EOLhyphen"/>ning the honest and well affected in the pur<g ref="char:EOLhyphen"/>suance of the cause, a traducing of the publike Government, &amp; rendring the well deserving sus<g ref="char:EOLhyphen"/>pected to the people, a great hinderance &amp; impe<g ref="char:EOLhyphen"/>diment of the desired peace, a traiterous plot di<g ref="char:EOLhyphen"/>rectly
+<pb n="11" facs="tcp:113632:6"/>crossing the union, and weakning the con<g ref="char:EOLhyphen"/>fidence between the two kingdomes, a sure e<g ref="char:EOLhyphen"/>vidence of their compliance with the bloudy Rebells, while as by winding up the black guil<g ref="char:EOLhyphen"/>tinesse of the horrible bloudshed of that excera<g ref="char:EOLhyphen"/>ble Traitor, in a generall Pardon, and Close of Peace, they proclame to the world, they are mo<g ref="char:EOLhyphen"/>ving their way, and driving their interst with<g ref="char:EOLhyphen"/>out any purpose to bring these cruell enemies to condigne punishment, but to lay the foundation of more bitter and lasting miseries; As we doe therfore much wonder at the arrogancy of these remonstrants, Who fancying, that in their singu<g ref="char:EOLhyphen"/>lar zeale and wisdome, they have over-reached and out-stripped the Parliaments of both King<g ref="char:EOLhyphen"/>domes by falling upon a better and more expe<g ref="char:EOLhyphen"/>ditious way of Peace, then what was resolved on with so much piety, and wisdome, have pre<g ref="char:EOLhyphen"/>sumed to apply themselves to the three estates of the Kingdome, and the Army with confidence that such a Malignant unseasonable paper might find approbation and adherence, So doe we re<g ref="char:EOLhyphen"/>solve in testimony of our dislike thereof, with our best endeavours, God willing to oppose the same; and are so farre from resigning our selves to bee led in their by-wayes or depart any whit
+<pb n="12" facs="tcp:113632:7"/>from our Covenant, that we are rather strength<g ref="char:EOLhyphen"/>ned therby in the integrity of our intentions, and quickned with more vigorous resolutions (by Gods blessing) effectually to carry on and set for<g ref="char:EOLhyphen"/>ward the just desires of both Kingdoms; wher<g ref="char:EOLhyphen"/>by we are not to move by the hatefull counsells of these pretended peace-makers, but to trace the wayes that shall be layd downe propounded to us by the Parliaments of both Kingdomes; In pursuance whereof, as subjects of the Kingdom of Scotland and members of the Church there<g ref="char:EOLhyphen"/>of, we doe firmely and Cordially adhere to the Proclamation published at <hi>Edenburgh</hi> of the date the 5. of <hi>April</hi> 1646. and to the publicke decla<g ref="char:EOLhyphen"/>ration emitted by the Commissioners of the Generall Assembly printed at <hi>Edenborough,</hi>
+            </p>
+            <closer>
+               <signed>Signed by his Excellency and a number of the chiefe Officers of the Army the Generall Leiut. <hi>David Leisly,</hi> Sir <hi>Iames Lumsden,</hi> and Generall Major <hi>Holborne.</hi>
+               </signed>
+               <dateline>
+                  <hi>Edinburgh</hi>
+                  <date>15. <hi>May</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="license">
+            <p>By warrant from the Committee of Estates, and Commissioners of the Assembly, printed at <hi>Edinburgh</hi> by <hi>Evan Tyler,</hi> Printer to the Kings most Excellent <hi>Majesty, Anno</hi> 1646.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
